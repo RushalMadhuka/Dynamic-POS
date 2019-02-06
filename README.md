@@ -1,2 +1,2 @@
 # Dynamic-POS
-Point of sale system to your shop
+Dynamic PoS 2018.0
